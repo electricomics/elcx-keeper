@@ -1,0 +1,19 @@
+{
+  "browser": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "forin": true,
+  "indent": 2,
+  "newcap": true,
+  "node": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": true,
+  "predef": [
+    "module",
+    "require",
+    "console"
+  ]
+}
