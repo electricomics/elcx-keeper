@@ -14,4 +14,4 @@ License & Copyright
 
 Copyright 2015 https://github.com/electricomics/
 
-Licensed under the GNU General Public License v2.0 only.
+Licensed under the GNU General Public License v3.0.
